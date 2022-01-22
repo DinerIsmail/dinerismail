@@ -2,7 +2,7 @@
 
 I'm Diner and I love building full stack web apps that make the world a better place.
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">My Stack</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -28,9 +28,15 @@ I'm Diner and I love building full stack web apps that make the world a better p
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/node-original.svg" width="48" height="48" alt="Node" />
       </a>
-      <br>Sass
+      <br>Node
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/next-original.svg" width="48" height="48" alt="Next" />
+      </a>
+      <br>Next.js
     </td>
   </tr>
 </table>
