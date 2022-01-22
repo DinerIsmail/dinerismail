@@ -1,5 +1,41 @@
 ### Hi there 👋
 
+I'm Diner and I love building full stack web apps that make the world a better place.
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr>
+</table>
+
+
 <!--
 **DinerIsmail/dinerismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
