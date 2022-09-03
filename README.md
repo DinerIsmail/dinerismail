@@ -4,7 +4,7 @@ I'm Diner and I love building full stack web apps that make the world a better p
 
 <h2 align="left" id="macropower-tech">My Stack</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools and languages that I like to work with.
 
 <table>
   <tr>
