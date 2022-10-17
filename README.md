@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Diner and I love building full stack web apps that make the world a better place.
+I'm Diner and I love building things that make the world a better place.
 
 <h2 align="left" id="macropower-tech">My Stack</h2>
 
