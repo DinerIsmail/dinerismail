@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diner
 =============================================================================================================================
 
-I’m a frontend developer and coding tutor
+I’m a frontend developer, community tech creator and coding tutor
 ---------------------------------------------
 
 I’m an experienced Frontend Engineer working at Olio, and I’m a co-founder and developer of Resilience Web. I’m also a CodeMentor tutor. I love building things that make the world a better place.
