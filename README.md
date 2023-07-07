@@ -7,7 +7,7 @@ I’m a frontend engineer, activist and community tech creator
 I’m a Senior Frontend Engineer at Olio, and I’m a co-founder and developer of Resilience Web. I love building things that make the world a better place.
 
 * 🌍  I'm based in Durham, UK
-* 🖥️  See my portfolio at [dinerismail.dev](http://dinerismail.dev)
+* 🖥️  See my blog at [dinerismail.dev](http://dinerismail.dev)
 * 🚀  I'm currently working on [Resilience Web](http://resilienceweb.org.uk)
 
 ### Skills
