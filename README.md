@@ -1,7 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diner
-=============================================================================================================================
+# Hi, my name is Diner 👋
 
-I’m a frontend engineer, activist and community tech creator
+I’m a frontend engineer and community tech creator
 ---------------------------------------------
 
 I’m a Senior Frontend Engineer at Olio, and I’m a co-founder and developer of Resilience Web. I love building things that make the world a better place.
